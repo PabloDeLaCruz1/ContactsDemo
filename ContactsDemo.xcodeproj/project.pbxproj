@@ -13,6 +13,7 @@
 		FE74DC5427D69A4200F33D69 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE74DC5227D69A4200F33D69 /* Main.storyboard */; };
 		FE74DC5627D69A4500F33D69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE74DC5527D69A4500F33D69 /* Assets.xcassets */; };
 		FE74DC5927D69A4500F33D69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE74DC5727D69A4500F33D69 /* LaunchScreen.storyboard */; };
+		FE74DC6127D69AC100F33D69 /* ContactDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE74DC6027D69AC100F33D69 /* ContactDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FE74DC5527D69A4500F33D69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE74DC5827D69A4500F33D69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE74DC5A27D69A4500F33D69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE74DC6027D69AC100F33D69 /* ContactDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FE74DC4E27D69A4200F33D69 /* SceneDelegate.swift */,
 				FE74DC5027D69A4200F33D69 /* ViewController.swift */,
 				FE74DC5227D69A4200F33D69 /* Main.storyboard */,
+				FE74DC6027D69AC100F33D69 /* ContactDetails.swift */,
 				FE74DC5527D69A4500F33D69 /* Assets.xcassets */,
 				FE74DC5727D69A4500F33D69 /* LaunchScreen.storyboard */,
 				FE74DC5A27D69A4500F33D69 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE74DC5127D69A4200F33D69 /* ViewController.swift in Sources */,
+				FE74DC6127D69AC100F33D69 /* ContactDetails.swift in Sources */,
 				FE74DC4D27D69A4200F33D69 /* AppDelegate.swift in Sources */,
 				FE74DC4F27D69A4200F33D69 /* SceneDelegate.swift in Sources */,
 			);
